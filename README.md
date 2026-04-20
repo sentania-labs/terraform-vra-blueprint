@@ -1,4 +1,6 @@
-# terraform-vra-vmapps-blueprint
+# terraform-vra-blueprint
+
+Terraform module — creates and manages an Aria Automation / vRA Assembler blueprint resource.
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
